@@ -161,3 +161,6 @@ cython_debug/
 
 # Books and text data for analysis
 data/
+
+# CatBoost info files and logs
+catboost_info/tmp/
